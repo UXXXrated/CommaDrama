@@ -1,5 +1,5 @@
 # Comma Drama
-![License: Prosperity](https://img.shields.io/badge/License-Prosperity-yellow)
+![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-1.0.0-blue)
 ![Status: Alpha](https://img.shields.io/badge/Status-Alpha-red)
 
 *When your prompts are messier than your love life, Comma Drama makes them look like a cinematic masterpiece.*
@@ -12,4 +12,4 @@ It takes messy text and reshapes it into structured prompts that are easier to r
 This project is built with the [Gradio](https://www.gradio.app/) framework.
 
 ## License
-This project is licensed under the [Polyform Prosperity License](https://polyformproject.org/licenses/prosperity/).  
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
