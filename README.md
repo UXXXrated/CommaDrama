@@ -8,5 +8,8 @@
 Comma Drama is a work-in-progress web app for cleaning up and reordering Stable Diffusion (SD/SDXL) prompts.  
 It takes messy text and reshapes it into structured prompts that are easier to read, edit, and use.
 
+## Credits
+This project is built with the [Gradio](https://www.gradio.app/) framework.
+
 ## License
 This project is licensed under the [Polyform Prosperity License](https://polyformproject.org/licenses/prosperity/).  
