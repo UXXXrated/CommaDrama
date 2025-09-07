@@ -1,5 +1,5 @@
 # Comma Drama
-![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-1.0.0-blue)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm--Noncommercial%201.0.0-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 ![Status: Alpha](https://img.shields.io/badge/Status-Alpha-red)
 
 *When your prompts are messier than your love life, Comma Drama makes them look like a cinematic masterpiece.*
